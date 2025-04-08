@@ -1,0 +1,9 @@
+*.jpg
+*.gif
+*.png
+*.bmp
+*.tif
+*.kra
+noteImgs/
+final/HGG/*
+final/LGG/*
